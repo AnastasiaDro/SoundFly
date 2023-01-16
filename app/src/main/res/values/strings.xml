@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SoundFly</string>
+    <string name="no_micro">No microphone!</string>
 </resources>
