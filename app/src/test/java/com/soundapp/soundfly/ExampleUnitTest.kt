@@ -1,4 +1,4 @@
-package com.soundapp.SoundFly
+package com.soundapp.soundfly
 
 import org.junit.Test
 

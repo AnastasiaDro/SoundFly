@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.soundapp.SoundFly'
+    namespace 'com.soundapp.soundfly'
     compileSdk 33
 
     defaultConfig {
