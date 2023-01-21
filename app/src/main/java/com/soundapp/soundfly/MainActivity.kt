@@ -121,5 +121,7 @@ class MainActivity : AppCompatActivity(), Timer.OnTimerClickListener {
 
     override fun onTimerTick(duration: String) {
         viewBinding.tvTimer.text = duration
+        viewBinding.waveformView.addAmplitude((recorder.maxAmplitude/2).toFloat())
+
     }
 }
